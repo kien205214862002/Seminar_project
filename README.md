@@ -9,3 +9,6 @@ III. Hướng dẫn cài đặt :
 1. Dowload file zip về giải nén
 2. Dùng jupyter.org hoặc ggcollab ( hoặc visual studio code) để chạy file .ipynb.
 3. Load các file csv lên để chạy các thông số.
+4. Xem các thông số để đánh giá
+
+   
